@@ -6,7 +6,7 @@ Wassup, I am Chpsterz. I am a web developer and aspiring software engineer. you 
 ## Experience
 I started Web Development in late 2021 and have been learning new tools/contributing to new projects since I ever gained my basic knowledge of HTML & CSS. I have experience in a multitude of different and unique styling libraries and frameworks such as [Svelte](https://svelte.dev/) and [Bootstrap](https://getbootstrap.com/). I am also planning to learn SQL Langauges and PhaserJS in the near future to pursue my goal of me making a Multiplayer game. Anyways, thats it in summary. here is a paragraph of what I do in a Nutshell/Other things about me.
 
-##In A Nutshell
+## In A Nutshell
 - 🔭 I’m currently working on [NomoCode](https://nomocode.com/)
 - 🌱 I’m currently learning Airtable API
 - 👯 I’m looking to collaborate on Websites.
