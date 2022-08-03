@@ -1,4 +1,4 @@
-### Chpsterz
+# Chpsterz
 ## Front-End Web Developer & Aspiring Full Stack Software Developer
 
 - 💡 HTML5 Developer(including CSS, JavaScript).
