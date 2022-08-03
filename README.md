@@ -1,5 +1,5 @@
 <h1> Chpsterz </h1>
-### Front-End Web Developer & Aspiring Full Stack Software Developer
+<h2> Front-End Web Developer & Aspiring Full Stack Software Developer </h2>
 
 - 💡 HTML5 Developer(including CSS, JavaScript).
 - ✋ Contributor at [NomoCode](http://nomocode.io/)
