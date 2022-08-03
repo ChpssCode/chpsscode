@@ -1,5 +1,4 @@
-# Chpsterz
-### Front-End Web Developer & Aspiring Full Stack Software Developer
+# Chpsterz ### Front-End Web Developer & Aspiring Full Stack Software Developer
 
 - 💡 HTML5 Developer(including CSS, JavaScript).
 - ✋ Contributor at [NomoCode](http://nomocode.io/)
