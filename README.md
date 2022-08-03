@@ -18,7 +18,7 @@ Hello, I'm Chpsterz, a middle school student based in Pennsylvania. I am a front
 
 ### More about me...
 
-- 🔭 I’m currently working on Node.js, Express.js, React, Graphql, MongoDB, etc 💻.
+- 🔭 I’m currently using Node.js, Svelte, Bootstrap, PhaserJS, TypeScript, and other frameworks/libraries when coding. 💻
 - 🌱 I’m currently learning Full Stack Development 🚀.
 - 👯 I’m looking to collaborate on any Open Source Project involving Javascript / MERN Stack.
 - 📫 How to reach me: pavangandhi100@gmail.com | [LinkedIn](https://linkedin.com/in/iampavangandhi) | [Twitter](https://twitter.com/iampavangandhi) | [Instagram](https://instagram.com/iampavangandhi) | [Portfolio](https://iampavangandhi.github.io/)
