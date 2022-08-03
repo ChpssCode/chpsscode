@@ -14,7 +14,7 @@
 
 ### Glad to see you here! 🤝 ![](https://visitor-badge.glitch.me/badge?page_id=ChpssCode.ChpssCode)
 
-I'm a final student pursuing Bachelors's in Computer Science 🎓 from Delhi University 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
+Hello, I'm Chpsterz, a middle school student based in Pennsylvania. I am a front-end web developer and aspiring full-stack web developer. I have been coding for ~2 or so years and in that time have learned lots from my friends and peers online and in real life. 
 
 ### More about me...
 
