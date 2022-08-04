@@ -21,13 +21,11 @@ Hello, I'm Chpsterz, a middle school student based in Pennsylvania. I am a front
 - 🔭 I’m currently using Node.js, Svelte, Bootstrap, PhaserJS, TypeScript, and other frameworks/libraries when coding. 💻
 - 🌱 I’m currently learning Full Stack Web Development 🚀.
 - 👯 I’m looking to collaborate on any Open Source Project involving Javascript / MERN Stack.
-- 📫 How to reach me: pavangandhi100@gmail.com | [LinkedIn](https://linkedin.com/in/iampavangandhi) | [Twitter](https://twitter.com/iampavangandhi) | [Instagram](https://instagram.com/iampavangandhi) | [Portfolio](https://iampavangandhi.github.io/)
-- 💻 I have worked on C++, Java, Python, HTML/CSS, Javascript, React, Nodejs, Expressjs, MySQL, MongoDB, Git, Docker, etc.
-- 💬 Ask me about anything! I am happy to help and guide you.
-- ⚡ Fun fact: Equal is Not Always Equal in Javascript 🤣. Hire [me](mailto:pavangandhi100@gmail.com?Subject=Hello%20Pavan) 👨‍💻.
+- 📫 How to reach me: [Portfolio](chpsterz#0001)
+- 💬 Ask me about anything! I am happy to help and guide you/learn something new myself!
 
 ### Show some ❤️ by starring some of the repositories!
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=iampavangandhi&show_icons=true&hide_border=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=ChpssCode&show_icons=true&hide_border=true)
 
-⭐️ From [iampavangandhi](https://github.com/iampavangandhi)
+⭐️ From [Chpsterz](https://github.com/ChpssCode)
