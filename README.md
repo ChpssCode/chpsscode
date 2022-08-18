@@ -11,7 +11,7 @@
 
 ### Glad to see you here! 🤝 ![](https://visitor-badge.glitch.me/badge?page_id=ChpssCode.ChpssCode)
 
-Hello, I'm Chpsterz, a middle school student based in Pennsylvania. I am a front-end web developer and aspiring full-stack web developer. I have been coding for ~2 or so years and in that time have learned lots from my friends and peers online and in real life. 
+Hello, I'm Chpsterz, a middle school student based in North America. I enjoy making front-end web applications and am currently learning how to become a full-stack web developer. I have been coding for ~2 or so years and in that time have learned lots from my friends and peers online and in real life. 
 
 ### More about me...
 
