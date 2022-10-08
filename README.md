@@ -11,11 +11,10 @@
 
 ### Glad to see you here! 🤝 ![](https://visitor-badge.glitch.me/badge?page_id=ChpssCode.ChpssCode)
 
-Hello, I'm Chpsterz, a middle school student based in North America. I enjoy making front-end web applications and am currently learning how to become a full-stack web developer. I have been coding for ~2 or so years and in that time have learned lots from my friends and peers online and in real life. 
+Hello, I'm Chpsterz. I enjoy making front-end web applications with svelte and am currently learning how to become a full-stack web developer. I have been coding for ~2 or so years and in that time have learned lots from my friends and peers online and in real life. 
 
 ### More about me...
 
-- 🔭 I’m currently using Node.js, Svelte, Bootstrap, PhaserJS, TypeScript, and other frameworks/libraries when coding. 💻
 - 🌱 I’m currently learning Full Stack Web Development 🚀.
 - 👯 I can give insightful and helpful advice into any projcet related to JavaScript/Phaser/Bootstrap.
 - 📫 How to reach me: chpsterz#0001(Discord)
