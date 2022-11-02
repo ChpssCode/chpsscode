@@ -13,6 +13,15 @@
 
 Hello, I'm Chpsterz. I enjoy making front-end web applications with svelte and am currently learning how to become a full-stack web developer. I have been coding for ~2 or so years and in that time have learned lots from my friends and peers online and in real life. 
 
+### Languages and Tools
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" />
+          
+
+       
+
+
 ### More about me...
 
 - 🌱 I’m currently learning Full Stack Web Development 🚀.
