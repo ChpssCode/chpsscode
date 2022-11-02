@@ -15,8 +15,8 @@ Hello, I'm Chpsterz. I enjoy making front-end web applications with svelte and a
 
 ### Languages and Tools
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+<i class="devicon-svelte-plain"></i>
 
- <i class="devicon-svelte-plain"></i>
 ### More about me...
 
 - 🌱 I’m currently learning Full Stack Web Development 🚀.
