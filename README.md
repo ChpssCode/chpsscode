@@ -7,11 +7,9 @@
 
 - 👨‍💻 All of my projects are available at [https://chpsscode.github.io/](https://chpsscode.github.io/)
 
-- 📝 I regularly write articles on [https://chpsscode.github.io/](https://chpsscode.github.io/)
-
 - 💬 Ask me about **Anything related to Frontend Development**
 
-- 📫 How to reach me **chpsterz#0001**
+- 📫 Reach out to me on discord! **chpsterz#3463**
 
 - 📄 Know about my experiences [https://chpsscode.github.io/](https://chpsscode.github.io/)
 
