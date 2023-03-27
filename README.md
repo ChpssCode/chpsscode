@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Anything related to Frontend Development**
 
-- 📫 Reach out to me on discord! **chpsterz#3463**
+- 📫 Reach out to me on discord! **chpsterz#4362**
 
 - 📄 Know about my experiences [https://chpsscode.github.io/](https://chpsscode.github.io/)
 
