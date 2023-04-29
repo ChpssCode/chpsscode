@@ -5,13 +5,11 @@
 
 - 🌱 I’m currently learning **Full-Stack Development**
 
-- 👨‍💻 All of my projects are available at [https://chpsscode.github.io/](https://chpsscode.github.io/)
-
 - 💬 Ask me about **Anything related to Frontend Development**
 
 - 📫 Reach out to me on discord! **chpsterz#4362**
 
-- 📄 Know about my experiences [https://chpsscode.github.io/](https://chpsscode.github.io/)
+- 🛠️ Previous Projects: [ViralThumbs Website](https://viralthumbs.com/), [NomoCode Website](https://nomocode.io/), [NomoCode Website](https://nomocode.io/), [Miner](https://miner-flax.vercel.app/), [Colonize Mars](https://colonize-mars-chi.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
