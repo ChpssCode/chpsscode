@@ -1,11 +1,17 @@
 <h1 align="center">Hi 👋, I'm Chpsterz</h1>
-<h3 align="center">A passionate software developer from the US</h3>
+<h3 align="center">A passionate software developer from the USA</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chpsscode&label=Profile%20views&color=0e75b6&style=flat" alt="chpsscode" /> </p>
 
-- 🌱 I’m currently learning **Computer Networking Topics(Client-side prediction, binaey compression, interpolation, etc) and .io Game Making**
+- I’m currently learning about **Computer Networking, Data Storage, and Web Game Development**
 
-- 📫 Reach out to me on discord! **chpsterz**
+- I am experienced in various technologies and software related to web development.
+
+- I am a freshman in highschool.
+
+- I am always open to learning more about the field of software development.
+
+- You can reach out to me on discord @ **chpsterz** and check out more of my projects on my (website)[chpsscode.github.io]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
