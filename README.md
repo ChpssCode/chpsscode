@@ -1,15 +1,11 @@
 <h1 align="center">Hi 👋, I'm Chpsterz</h1>
-<h3 align="center">A passionate frontend developer/aspiring full-stack developer from the US</h3>
+<h3 align="center">A passionate software developer from the US</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chpsscode&label=Profile%20views&color=0e75b6&style=flat" alt="chpsscode" /> </p>
 
-- 🌱 I’m currently learning **Full-Stack Development**
+- 🌱 I’m currently learning **Computer Networking Topics(Client-side prediction, binaey compression, interpolation, etc) and .io Game Making**
 
-- 💬 Ask me about **Anything related to Frontend Development**
-
-- 📫 Reach out to me on discord! **chpsterz#4362**
-
-- 🛠️ Previous Projects: [ViralThumbs Website](https://viralthumbs.com/), [NomoCode Website](https://nomocode.io/), [NomoCode Website](https://nomocode.io/), [Miner](https://miner-flax.vercel.app/), [Colonize Mars](https://colonize-mars-chi.vercel.app/)
+- 📫 Reach out to me on discord! **chpsterz**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
