@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chpsscode&label=Profile%20views&color=0e75b6&style=flat" alt="chpsscode" /> </p>
 
-- I’m currently learning about **Computer Networking, Data Storage, and Web Game Development**
+- I’m currently learning about **Computer Networking, Data Storage, and .io Game Development**
 
 - I am experienced in web development.
 
