@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chpsscode&label=Profile%20views&color=0e75b6&style=flat" alt="chpsscode" /> </p>
 
-- I’m currently learning about **Computer Networking, Data Storage, and .io Game Development**
+- I’m currently learning about **.io Game Development**
 
-- I am experienced in web development.
+- I am experienced in web development with programming languages like typescript/javascript.
 
 - I am a freshman in highschool.
 
-- I am always open to learning more about the field of software development.
+- I am always open to learning more about the fields of software development and robotics.
 
 - You can reach out to me on discord @ **chpsterz** and check out more of my projects on my [website](https://chpsscode.github.io)
 
