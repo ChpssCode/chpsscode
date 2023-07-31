@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chpsscode&label=Profile%20views&color=0e75b6&style=flat" alt="chpsscode" /> </p>
 
-- I am experienced in web development with programming languages like typescript/javascript.
+- I am experienced in web development with programming languages like typescript/javascript and frameworks like svelte/sveltekit
 
 -  I’m currently learning about **Multiplayer Game Development** and actively contributing to a 2D Battle Royal called [Suroi.io](https://suroi.io)
 
