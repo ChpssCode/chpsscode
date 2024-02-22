@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chpsterz</h1>
-<h3 align="center">A passionate software developer from the USA</h3>
+<h3 align="center">A high-school programmer from the USA</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chpsscode&label=Profile%20views&color=0e75b6&style=flat" alt="chpsscode" /> </p>
 
